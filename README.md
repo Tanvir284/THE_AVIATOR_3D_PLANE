@@ -105,12 +105,6 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 📬 Contact
 
 For questions or collaboration, reach out to [Tanvir284](https://github.com/Tanvir284).
