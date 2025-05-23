@@ -1,7 +1,7 @@
-# THE_AVIATOR_3D_PLANE
-
-![The Aviator 3D Plane Banner](https://raw.githubusercontent.com/Tanvir284/THE_AVIATOR_3D_PLANE/main/assets/banner.png) <!-- Replace with actual image if available -->
-
+# THE_AVIATOR_3D_PLANE_HOME
+![Image1](https://github.com/Tanvir284/THE_AVIATOR_3D_PLANE/main/image2.png) 
+# THE_AVIATOR_3D_PLANE_BODY_AND_GAME_SURFACE
+![Image1](https://github.com/Tanvir284/THE_AVIATOR_3D_PLANE/main/image3.png) 
 ## ✈️ Overview
 
 **THE_AVIATOR_3D_PLANE** is an engaging 3D OpenGL game developed to explore and demonstrate key concepts in computer graphics. Built with C++, this project serves both as an educational resource and a fun demonstration of interactive graphics programming. The game features an immersive environment where players pilot a 3D plane, navigating through various challenges and stunning visuals, all created from scratch.
@@ -23,9 +23,8 @@
 
 - **C++**: Core programming language.
 - **OpenGL**: Graphics rendering.
-- **GLUT/GLFW**: Window management and input handling (specify which is used).
-- **GLM**: Mathematics library for 3D graphics (if used).
-- **SOIL/stb_image**: Image loading (if used).
+- **GLUT**: Window management and input handling
+
 
 ---
 
@@ -36,8 +35,7 @@
 - C++ Compiler (e.g., GCC, MSVC, Clang)
 - [OpenGL](https://www.opengl.org/)
 - [GLUT](https://www.opengl.org/resources/libraries/glut/) or [GLFW](https://www.glfw.org/) (depending on your setup)
-- [GLM](https://glm.g-truc.net/0.9.9/index.html) (optional, if used)
-- [SOIL](http://www.lonesock.net/soil.html) or [stb_image](https://github.com/nothings/stb) (optional, if used)
+
 
 ### Installation
 
@@ -66,13 +64,15 @@
 ## 🕹️ Gameplay Instructions
 
 - **Controls:**
-  - Arrow Keys / WASD: Steer the plane
-  - Spacebar: Accelerate/Boost
-  - Q/E: Roll the plane
-  - Esc: Exit game
+  - WASD: Steer the plane
+  - Z/z : Zoom in /Zoom out
+  - r/t: Roll the plane
+  - m : go to home
+  - refresh the score 
+  - q: Exit game
 
 - **Objective:**
-  - Navigate through the environment, avoid obstacles, and collect items to score points!
+  - Navigate through the environment, go through and collect items to score points!
 
 ---
 
@@ -81,9 +81,7 @@
 ```
 THE_AVIATOR_3D_PLANE/
 ├── assets/           # Textures, models, sounds
-├── src/              # Source code files (main.cpp, plane.cpp, etc.)
-├── include/          # Header files
-├── shaders/          # GLSL shader programs
+├── src/              # Source code files (main.cpp,)
 ├── README.md         # Project documentation
 └── ...
 ```
