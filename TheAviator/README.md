@@ -1,8 +1,8 @@
 # THE_AVIATOR_3D_PLANE
 
-![The Aviator 3D Plane Home page ](https://raw.githubusercontent.com/Tanvir284/THE_AVIATOR_3D_PLANE/image2.png) 
-![The Plane Body from the Game Surface ](https://raw.githubusercontent.com/Tanvir284/THE_AVIATOR_3D_PLANE/image.png) 
-![The Surface with The Shaheed Minar ](https://raw.githubusercontent.com/Tanvir284/THE_AVIATOR_3D_PLANE/image3.png) 
+![The Aviator 3D Plane Home page ](https://github.com/Tanvir284/THE_AVIATOR_3D_PLANE/image2.png) 
+![The Plane Body from the Game Surface ](https://github.com/Tanvir284/THE_AVIATOR_3D_PLANE/image.png) 
+![The Surface with The Shaheed Minar ](https://github.com/Tanvir284/THE_AVIATOR_3D_PLANE/image3.png) 
 ## ✈️ Overview
 
 **THE_AVIATOR_3D_PLANE** is an engaging 3D OpenGL game developed to explore and demonstrate key concepts in computer graphics. Built with C++, this project serves both as an educational resource and a fun demonstration of interactive graphics programming. The game features an immersive environment where players pilot a 3D plane, navigating through various challenges and stunning visuals, all created from scratch.
@@ -31,7 +31,7 @@
 
 ### Prerequisites
 
-- C++ Compiler (e.g., GCC, MSVC, Clang)
+- C++ Compiler
 - [OpenGL](https://www.opengl.org/)
 - [GLUT](https://www.opengl.org/resources/libraries/glut/) or [GLFW](https://www.glfw.org/) 
 
@@ -71,7 +71,7 @@
   - q: Exit the game
 
 - **Objective:**
-  - Navigate through the environment, g through the circle  to score points!
+  - Navigate through the environment, go through the circle  to score points!
 
 ---
 
