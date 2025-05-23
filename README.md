@@ -64,6 +64,7 @@
 ## 🕹️ Gameplay Instructions
 
 - **Controls:**
+  - g : press g to start the Game 
   - WASD: Steer the plane
   - Z/z : Zoom in /Zoom out
   - r/t: Roll the plane
